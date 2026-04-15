@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8a1f7a5f-c206-4dfe-9f35-809202c20fa1",
+  "id_short": 760561,
+  "published_at": "2026-04-15T07:12:40Z",
+  "repo_name": "the-hhi-monopoly-index-for-pittsburgh-metro-area-pa-us-sample-760561",
+  "sample_asset_name": "beamstation_760561_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/760561/beamstation_760561_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "92955d745b03652de25dca7f485a960da8fba1b0ac465d756c1e672241abdcda",
+  "sample_size_bytes": 92408,
+  "total_records": 304
+}
