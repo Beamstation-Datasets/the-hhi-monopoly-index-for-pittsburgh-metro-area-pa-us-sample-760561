@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Pittsburgh Metro Area, PA, US",
-  "export_job_id": "8a1f7a5f-c206-4dfe-9f35-809202c20fa1",
+  "export_job_id": "3cae58a9-27b1-4d41-99bf-a3291e5906b1",
   "github_org": "Beamstation-Datasets",
   "id_short": 760561,
   "location_name": "Pittsburgh, PA",
   "location_type": "metro",
   "repo_name": "the-hhi-monopoly-index-for-pittsburgh-metro-area-pa-us-sample-760561",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760561/beamstation_760561_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
-  "sample_pct": 6.58,
+  "sample_pct": 9.57,
   "sample_records": 20,
   "sample_sha256": "92955d745b03652de25dca7f485a960da8fba1b0ac465d756c1e672241abdcda",
   "sample_size_bytes": 92408,
-  "total_records": 304,
-  "updated_at": "2026-04-08T00:59:52.234134+00:00"
+  "total_records": 209,
+  "updated_at": "2026-04-15T06:38:17.152191+00:00"
 }
