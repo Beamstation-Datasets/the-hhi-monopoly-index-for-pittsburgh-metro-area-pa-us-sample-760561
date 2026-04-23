@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Pittsburgh Metro Area, PA, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `760561` |
 | Location | Pittsburgh, PA |
 | Category | Restaurants |
-| Full dataset size | 209 records |
-| Free sample size | 20 records (9.57%) |
-| Last export | 2026-04-15T06:38:17.152191+00:00 |
+| Full dataset size | 185 records |
+| Free sample size | 18 records (9.73%) |
+| Last export | 2026-04-22T12:41:23.487372+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-pittsburgh-metro-area-pa-us-sample-760561/releases/download/sample-latest/beamstation_760561_restaurants-us-pittsburghpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
